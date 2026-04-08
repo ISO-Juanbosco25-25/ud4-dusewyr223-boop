@@ -19,9 +19,14 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 1. SEGURIDAD
 
-- 
-- 
-- 
+
+Cerrar la ventanas para que no entre mucho aire y haga girar los ventiladores y genere electricidad
+
+Desconectar siempre el equipo de la corriente eléctrica antes de abrir la caja.
+
+
+Trabajar en un entorno seco y limpio alejado de líquidos, para evitar cortocircuitos o daños en los componentes.
+
 
 💡 Ejemplo: descargar electricidad estática antes de manipular componentes
 
@@ -29,9 +34,11 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧰 2. USO DE HERRAMIENTAS
 
-- 
-- 
-- 
+Utilizar un destornillador de estrella del tamaño adecuado para no dañar las cabezas de los tornillos.
+
+Emplear herramientas aisladas y en buen estado para trabajar con seguridad y precisión.
+
+Mantener las herramientas organizadas y al alcance para agilizar el trabajo y evitar pérdidas o accidentes.
 
 💡 Ejemplo: usar herramientas adecuadas para no dañar los componentes
 
@@ -39,9 +46,11 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧩 3. MONTAJE DE COMPONENTES
 
-- 
-- 
-- 
+Leer el manual de la placa base y de cada componente antes de proceder a su instalación.
+
+Alinear correctamente los conectores y ranuras antes de insertar cualquier componente, sin forzar nunca la entrada.
+
+Aplicar pasta térmica de manera correcta sobre el procesador antes de colocar el disipador, para garantizar una buena conducción del calor.
 
 💡 Ejemplo: no forzar los componentes al instalarlos
 
@@ -49,9 +58,11 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 4. CONEXIONES Y CABLEADO
 
-- 
-- 
-- 
+Identificar cada cable y conector antes de conectarlo, verificando polaridad y compatibilidad.
+
+Conectar todos los cables de alimentación de forma firme y segura.
+
+Comprobar que todas las conexiones estén correctamente asentadas antes de encender el equipo por primera vez.
 
 💡 Ejemplo: comprobar todas las conexiones antes de encender
 
@@ -59,9 +70,11 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🌡️ 5. ORGANIZACIÓN Y VENTILACIÓN
 
-- 
-- 
-- 
+Ordenar y agrupar los cables mediante bridas o velcro para facilitar el flujo de aire en el interior de la caja.
+
+Asegurarse de que los ventiladores estén orientados correctamente para una refrigeración eficiente.
+
+Dejar suficiente espacio libre alrededor de los componentes de mayor consumo para que el calor se disipe correctamente
 
 💡 Ejemplo: ordenar los cables para facilitar el flujo de aire
 
@@ -69,9 +82,11 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧠 6. COMPROBACIONES FINALES
 
-- 
-- 
-- 
+Revisar visualmente que no haya tornillos sueltos, cables sin conectar ni componentes mal asentados.
+
+Realizar un primer arranque con la caja abierta para comprobar que el equipo enciende y los ventiladores giran correctamente.
+
+Acceder a la BIOS para verificar que la RAM, el almacenamiento y el procesador son reconocidos con sus especificaciones correctas.
 
 💡 Ejemplo: revisar que todo está bien conectado antes del primer arranque
 
@@ -79,9 +94,12 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 💼 7. ACTITUD PROFESIONAL
 
-- 
-- 
-- 
+Trabajar con orden limpieza y cuidado del material durante todo el proceso de montaje.
+
+No improvisar contrastar las dudas con el manual o el docente antes de actuar.
+
+Respetar el material ajeno y dejar el puesto de trabajo limpio y ordenado al finalizar la práctica.
+
 
 💡 Ejemplo: trabajar con orden, limpieza y cuidado del material
 
@@ -90,8 +108,11 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 # 🧠 REFLEXIÓN FINAL
 
 - ¿Por qué es importante seguir buenas prácticas en el montaje?
+Porque si las sigues vas a tener poca probabilidad de que pase algo inesperado o algun error
 
 - ¿Qué puede pasar si no se siguen?
+mas probabilidad de errores o romper los componentes
 
 - ¿Cuál crees que es la práctica más importante? ¿Por qué?
+Los errores detectados, porque pocas veces te vas a olvidar de un error que te ha podido costar el pc y no lo vas a hacer denuevo
 
