@@ -120,7 +120,7 @@ Me vi bastante bien si no fuera por un solo cable
 
 ## 🧩 Fase 5: Encendido y comprobación
 
-📌 Minuto del vídeo: NO lo grabe :c
+📌 Minuto del vídeo: NO lo grabe 
 
 📌 ¿Arranca el equipo?
 
